@@ -1,0 +1,3 @@
+smart tree step 5
+
+pocwiczenie regexow
